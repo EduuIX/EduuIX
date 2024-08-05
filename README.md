@@ -11,7 +11,7 @@ Meu nome é Eduado Ribeiro, sou desenvolvedor de software com interesse nas áre
 ## Tecnologias e Ferramentas 🛠️
 
 - **Linguagens:** JavaScript, TypeScript, Python, Java.
-- **Frameworks:** React, Node.js, Express, Scipy, Sklearn, Pytorch, Sprin Boot.
+- **Frameworks:** React, Node.js, Express, Scipy, Sklearn, Pytorch, Spring Boot.
 - **Ferramentas:** Git, Docker, VSCode, Unity, Postman.
 
 
