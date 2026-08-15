@@ -1,4 +1,4 @@
-# EDUARDO RIBEIRO!
+# EDUARDO RIBEIRO
 
 Mestrando no Programa de Pós-Graduação em Engenharia Elétrica, com foco em Computação Aplicada, na Universidade Federal do Pará (UFPA), graduado em Engenharia da Computação pela mesma universidade. Eduardo é integrante do Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS). Sua pesquisa atual concentra-se em Aprendizado Federado (Federated Learning — FL) e Grandes Modelos de Linguagem (Large Language Models — LLMs). Investiga como os mecanismos de FL podem ser aprimorados para aumentar a eficiência e a segurança em ambientes distribuídos, além de explorar o uso de LLMs em contextos de aprendizado federado. Também participa de diversos projetos de pesquisa, desenvolvimento e inovação nas áreas de Segurança Cibernética, Inteligência Artificial, Computação em Nuvem, Internet das Coisas (IoT), Mobilidade, Realidade Estendida e Holografia. Seus interesses acadêmicos e profissionais incluem, ainda, Segurança da Informação e o desenvolvimento de soluções computacionais inovadoras.
 
